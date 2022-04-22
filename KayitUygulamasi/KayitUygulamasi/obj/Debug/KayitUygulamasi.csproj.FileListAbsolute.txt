@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\KayitUygulamasi\KayitUygulamasi\obj\Debug\KayitUygulamasi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\KayitUygulamasi\KayitUygulamasi\obj\Debug\KayitUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\KayitUygulamasi\KayitUygulamasi\obj\Debug\KayitUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\KayitUygulamasi\KayitUygulamasi\bin\Debug\KayitUygulamasi.exe.config
+C:\Users\User\Desktop\C#\KayitUygulamasi\KayitUygulamasi\bin\Debug\KayitUygulamasi.exe
+C:\Users\User\Desktop\C#\KayitUygulamasi\KayitUygulamasi\bin\Debug\KayitUygulamasi.pdb
+C:\Users\User\Desktop\C#\KayitUygulamasi\KayitUygulamasi\obj\Debug\KayitUygulamasi.exe
+C:\Users\User\Desktop\C#\KayitUygulamasi\KayitUygulamasi\obj\Debug\KayitUygulamasi.pdb
